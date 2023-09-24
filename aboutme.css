@@ -1,73 +1,23 @@
-* {
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
+.about-me {
+position: absolute;
+bottom: 1rem;
+margin-left: 47px;
 }
 
-.body {
-  background-color: hsla(240, 177%, 35%, 0.7);
+#h1-about-me {
+  font-size: 70px;
+  display: flex;
+  justify-content: center;
+  margin-left: 40rem;
+  margin-bottom: 1rem;
 }
 
-.abtme-mainsect__1 {
-  background-color: black;
-  border-radius: 35px;
-  position: absolute;
-  width: 96vw;
-  height: 40vw;
+#about-me-btags {
+  padding-bottom: 25px;
 }
 
-.header-li__1 {
-  margin-top: 25px;
-  margin-left: 75px;
-}
-
-
-.am-header__1 {
-  position: absolute;
-  font-size: 35px;
-  margin-top: 5vw;
-  left: 35px;
-}
-
-.body__1 {
-  margin-left: 65vh;
-  position: absolute;
-  bottom: 5vh;
-}
-
-#hlink-1 {
-  text-decoration: none;
-  border: 1px solid white;
-  font-size: 25px;
-  text-align: center;
-  border-radius: 25px;
-  padding: 5px;
-  transition: 0.3s;
-  background-color: black;
-}
-
-#hlink-1:hover {
-  background-color: blue;
-}
-
-#h-welcome_1 {
-  color: #2022a3;
-  margin-bottom: -45px;
-}
-
-.h-welcome_2 {
-   
-}
-
-#h2-body_1 {
-   transition: 1.3s;
-}
-
-#h2-body-p_1 {
-  display: none;
-  transition: 1.9s;
-}
-
-#h2-body_1:hover #h2-body-p_1{
-   display: block;
-   transition: 1.0s;
+#h1-exp {
+    background: -webkit-linear-gradient(#1e08e2, #470cb4);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
 }

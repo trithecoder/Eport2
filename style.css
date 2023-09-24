@@ -11,7 +11,8 @@
   border: 2px solid black;
   border-radius: 35px;
   padding: 25px;
-  padding-bottom: 100px;
+  padding-bottom: 25rem;
+  padding-right: 25rem;
   background-color: black;
   position: absolute;
   width: 96vw;
